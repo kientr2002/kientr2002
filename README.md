@@ -1,9 +1,14 @@
 # 💫About Me :
 Hi, I'm Kien!
+
 👀 My name is Trần Văn Kiên.
+
 🎂 My Birthday is 26/09/2002.
+
 🔭 Currently, I am a student in Computer Engineering at HCMUT, Viet Nam.
+
 😄 I am seeking for an internship in Fullstack Web Development and Internet of Thing Application Development Jobs.
+
 📫 Contact me: kien.tranvictory@gmail.com or kien.tranvictory@hcmut.edu.vn.
 
 ## 🌐Socials
@@ -22,8 +27,6 @@ Hi, I'm Kien!
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kientr2002&icon=0&color=0)](https://visitcount.itsvg.in)
