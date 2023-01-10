@@ -1,5 +1,5 @@
-# 💫About Me :
-Hi, I'm Kien!
+# 💫 Hi, I'm Kien!
+
 
 👀 My name is Trần Văn Kiên.
 
