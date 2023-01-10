@@ -1,8 +1,5 @@
-<p align="center">
-    <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
 
-### 💫 Hi, I'm Kien!
+# 💫 Hi, I'm Kien!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
