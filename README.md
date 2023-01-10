@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
 # 💫 Hi, I'm Kien!
 
 
@@ -26,6 +30,7 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 ---
