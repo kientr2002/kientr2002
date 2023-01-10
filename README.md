@@ -31,9 +31,9 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-    ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-</p>
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 ---
