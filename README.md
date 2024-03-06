@@ -8,7 +8,7 @@
 
 🔭 Currently, I am a student in Computer Engineering at HCMUT, Viet Nam.
 
-😄 I am seeking for an internship in Fullstack Web Development and Internet of Thing Application Development Jobs.
+😄 I am seeking for an internship in Embedded Software Development Jobs.
 
 📫 Contact me: kien.tranvictory@gmail.com or kien.tranvictory@hcmut.edu.vn.
 
